@@ -1,3 +1,3 @@
-crashed on boot
-images should be cached locally
+- crashed on boot
+- images should be cached locally
 
