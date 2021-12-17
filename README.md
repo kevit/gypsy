@@ -1,4 +1,4 @@
-export TF_VAR_region=us-west-1
+export TF_VAR_sourceImage=https://cloud.debian.org/images/cloud/bullseye/20211011-792/debian-11-genericcloud-amd64-20211011-792.qcow2
 
 IaC (or even EaC)
 Libvirt
