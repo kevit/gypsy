@@ -1,5 +1,7 @@
 export TF_VAR_sourceImage=https://cloud.debian.org/images/cloud/bullseye/20211011-792/debian-11-genericcloud-amd64-20211011-792.qcow2
 
+18.04 https://cloud-images.ubuntu.com/bionic/current/bionic-server-cloudimg-amd64.img
+
 IaC (or even EaC)
 Libvirt
 cloud-init
